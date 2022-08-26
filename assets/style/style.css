@@ -1,0 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.cardmax{
+    min-width: 540px !important;
+    margin: 15px;
+}
