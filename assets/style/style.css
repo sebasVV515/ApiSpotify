@@ -6,3 +6,7 @@
     min-width: 540px !important;
     margin: 15px;
 }
+#canciones{
+    margin-top: 50px;
+    justify-content: space-around;
+}
