@@ -1,6 +1,4 @@
-const IDARTISTA = "3LY2cnBt6jqLEdJco5NBE2"
-export const URI = `https://api.spotify.com/v1/artists/${IDARTISTA}/top-tracks?market=US`
-const TOKEN = "Bearer BQAqLn4T5HOkZcSfJZrVOJHx0HRsAB1ThQs12thyOY7y4FcohX8RCgBI-p2l0RtpTZQasIL2YRiOUJxZ3ba0QJd4PK5C_X2opj9bHKhn1lXI2Rmlot7u4257OQqF-1E2l7N4gqhzL3vHAtsKQvZ08zSdXZUADmT2KwzxJCVtGLNRDRvZA2Z-Rzvr9-3i3963u_I"
+const TOKEN = "Bearer BQDNbPDvb5-OSskcoNWJIgpRxa9m9Q-eQWz0ZDiU7heSJgJQSjfjPbhee1y0mB--AlcDDsHbL6hEkTjwah8Byr07Clz46O4RDgiz5x7Xg-2X3il4u3vGq2FR4jib1nxI2iIKUFxQia8X2f-R1mt-44t254LfvtC40r4wwNmCOczHRs56mDCcQw5F9BlYsMBwZUA"
 
 export const PETICION = {
     method: 'GET',
